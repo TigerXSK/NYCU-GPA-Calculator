@@ -1,5 +1,4 @@
-# 🍺 <a href="https://nycu-gpa-calculator.tigerxsk.com/" title="進入網站" target="_blank">NYCU GPA Calculator</a>
- 🍺
+# 🍺 <a href="https://nycu-gpa-calculator.tigerxsk.com/" title="進入網站" target="_blank">NYCU GPA Calculator</a> 🍺
 
 ## 描述
 NYCU GPA 計算機是一個網頁應用程式，幫助我們快速計算學期或歷年GPA。<br>
