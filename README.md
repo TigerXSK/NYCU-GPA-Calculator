@@ -1,10 +1,9 @@
-=== NYCU GPA Calculator
+# 🍺[NYCU GPA Calculator](https://nycu-gpa-calculator.tigerxsk.com/)
 
-# [網站地址](https://nycu-gpa-calculator.tigerxsk.com/)
-
-# 描述
+## 描述
 NYCU GPA 計算機是一個網頁應用程式，幫助我們快速計算學期或歷年GPA。
 我們將[學期成績管理系統](https://regist.nycu.edu.tw/p_student/default.aspx)中的成績頁面複製貼上至輸入欄，程序自動計算出GPA，並逐一列出修過的課程，且提供修課規定讓使用者進行比較。
+<br>
 
 ## 功能
 - 支持學期和歷年成績的GPA計算。
