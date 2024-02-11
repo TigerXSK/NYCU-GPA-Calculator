@@ -1,4 +1,4 @@
-===NYCU GPA Calculator
+=== NYCU GPA Calculator
 
 # [網站地址](https://nycu-gpa-calculator.tigerxsk.com/)
 
