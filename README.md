@@ -13,10 +13,15 @@ NYCU GPA 計算機是一個網頁應用程式，幫助我們快速計算學期�
 
 ## 如何使用
 1. 開啟<a href="https://nycu-gpa-calculator.tigerxsk.com/" title="進入網站" target="_blank">NYCU GPA 計算機</a>。
-2. 進入<a href="https://regist.nycu.edu.tw/p_student/default.aspx" title="進入學期成績管理系統" target="_blank">學期成績管理系統</a>{:target="_blank"}並全選複製成績頁面。
+2. 進入<a href="https://regist.nycu.edu.tw/p_student/default.aspx" title="進入學期成績管理系統" target="_blank">學期成績管理系統</a>並全選複製成績頁面。
 3. 在提供的文本框中貼上您的成績。
 4. 點擊"開始計算GPA"按鈕。
 5. 查看計算出的GPA以及其他相關信息。
+
+## 反饋與問題
+如果您在使用時遇到任何問題或發現錯誤，可通過以下方式回報：
+- **GitHub 問題追蹤**：在我們的 [GitHub 儲存庫](https://github.com/NYCU-GPA-Calculator) 中開啟一個新的 issue。
+- **透過貢獻**：參考以下方法，您可以修改程式，來更新或甚至優化整個網站🤍。
 
 ## 貢獻
 如果您想為此項目做出貢獻，請遵循以下步驟：
